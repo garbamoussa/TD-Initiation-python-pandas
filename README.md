@@ -5,8 +5,8 @@
 
 
 
-# Customer-Intelligence-de-la-Data-au-Machine-Learning 
+## TP : Pandas 
 
 
 
-##  TP-1-Analyse exploiratoire de clients 
+##  TP Statistiques Descriptives 

@@ -1,4 +1,6 @@
-![Image](image/logo-eemi.svg)
+![Image](image/logo-eemi.svg.png)
+
+
 <h1 align=center>Customer Intelligence : de la Data au Machine Learning</h1>
 
 
